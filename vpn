@@ -1,5 +1,5 @@
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?encryption=none&type=ws&security=tls&sni=m.vk.com&path=/esoznjws#United%20Kingdom%20Digital%20Ocean
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?encryption=none&type=ws&security=tls&sni=api.avito.ru&path=/pyzrgqws#@V2ray_NG
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?encryption=none&type=ws&security=none&host=vk.com&path=/news#%F0%9F%87%A7%F0%9F%87%B7%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%7C%2037.120.186.241%3A80
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&type=ws&security=none&host=vk.com&path=/news#%F0%9F%87%A7%F0%9F%87%B7%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%7C%2037.120.184.180%3A80
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?encryption=none&type=ws&security=none&host=m.vk.com&path=/panika#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&type=ws&security=none&host=vk.com&path=/news#%F0%9F%87%A7%F0%9F%87%B7%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%7C%2037.120.184.180%3A80
