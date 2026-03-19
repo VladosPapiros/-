@@ -1,2 +1,0 @@
-vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?encryption=none&type=ws&security=tls&sni=m.vk.com&path=/esoznjws#United%20Kingdom%20Digital%20Ocean
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?encryption=none&type=ws&security=tls&sni=api.avito.ru&path=/pyzrgqws#@V2ray_NG
